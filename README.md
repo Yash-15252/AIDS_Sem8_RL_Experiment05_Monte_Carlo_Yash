@@ -103,7 +103,7 @@ Sample Q-values from Q-Learning: {((0,0), 1): 0.71, ...}
 
 ## Setup & Run
 ```bash
-cd AIDS_Sem6_RL_Experiment05_TD
+cd AIDS_Sem8_RL_Experiment05_TD
 pip install -r requirements.txt
 jupyter notebook RL_EXP_5.ipynb
 ```
